@@ -97,13 +97,13 @@ Tournament Sort,partial,10000,194.91
 Introsort,partial,10000,0.72
 Merge Sort,random,100000,24.26
 Heap Sort,random,100000,20.95
-Bubble Sort,random,100000,SKIPPED
-Insertion Sort,random,100000,SKIPPED
-Selection Sort,random,100000,SKIPPED
+Bubble Sort,random,100000,15000
+Insertion Sort,random,100000,7000
+Selection Sort,random,100000,9000
 Quick Sort,random,100000,11.31
-Library Sort,random,100000,SKIPPED
+Library Sort,random,100000,17
 Tim Sort,random,100000,13.43
-Cocktail Shaker Sort,random,100000,SKIPPED
+Cocktail Shaker Sort,random,100000,11000
 Comb Sort,random,100000,17.33
-Tournament Sort,random,100000,SKIPPED
+Tournament Sort,random,100000,35
 Introsort,random,100000,11.46
